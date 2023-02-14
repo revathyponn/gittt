@@ -11,6 +11,12 @@ If a team member is unable to meet the deadline, they should communicate this to
 ## Meeting schedule 
 First team meeting happened on 13th February 2023 and the subsequent meeting schedule was established during the meeting. Weekly meetings will take place in the ORCH 4074 during the lab time on Monday and on Thursday at 4pm, with the possibility of zoom meeting or meeting in other locations if necessary.
 
+| Group member name | Preparation rating |
+|-------------------|--------------------|
+| Flora Ouedraogo   | 4                  |
+| Gaoxiang Wang     | 4                  |
+| Manvir Kohli      | 4                  |
+| Vincent Ho        | 4                  |
 
 |Meeting Date|Meeting Time|Location|Meeting Type|
 | :---: | :---: | :---: | :---: | :---: | 
