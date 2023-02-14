@@ -32,10 +32,10 @@ Slack and Github are the primary communication tools for this project. Github wi
 All members are expected to submit a pull request for their work on the repository for the group project on Github.com. Members are expected to add teammates as reviewers to all pull requests. The specific reviewer does not need to be specified, and can be discussed by group members at the time. The person who created the pull request is responsible for ensuring the pull request is reviewed within 24 hours.
 ## Roles
 For every milestone, team members will be given the role as scribe or Proof reader. The roles are as follows:
-### Scribe:
+#### Scribe:
 Responsible for taking notes during the meetings and in-class lab sessions and adding them as a GitHub issue.
 Responsible for sharing all notes and in-class activities to teammates.
-### Proof-reader
+#### Proof-reader
 Responsible for doing a final check of the submission before the deadline to make sure all requirements are satisfied. All issues are to be cross-checked and closed before submitting each milestone. 
 The Proof reader will also notify the team members that the release has been made. 
 The schedule for proofreading are as follows:
