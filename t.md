@@ -12,7 +12,7 @@ If a team member is unable to meet the deadline, they should communicate this to
 First team meeting happened on 13th February 2023 and the subsequent meeting schedule was established during the meeting. Weekly meetings will take place in the ORCH 4074 during the lab time on Monday and on Thursday at 4pm, with the possibility of zoom meeting or meeting in other locations if necessary.
 
 
-| Meeting Date | Meeting Time | Location | Meeting Type|
+|Meeting Date|Meeting Time|Location|Meeting Type|
 | :---: | :---: | :---: | :---: | :---: | 
 |2023-02-13| 14:00-16:00 | Lab Room 4074 | Kickoff Meeting | 
 |2023-02-16| 16:00-16:30 | Lab Room 4074 | Pre-submission Meeting | 
@@ -43,7 +43,7 @@ Milestone 1: Spencer Gerlach
 Milestone 2: Revathy Ponnambalam
 Milestone 3: Waiel Tinwala
 Milestone 1: Alexander Tacuik
-### Pull-request reviews
+#### Pull-request reviews
 Each pull request should be reviewed by 1 person. I.e. each week one person is responsible for their portion of the work, and reviewing one pull request.
 Positions will be rotated weekly to ensure that each team member performs each role once with the exception of the pull-request reviews.
 ## Deadlines
